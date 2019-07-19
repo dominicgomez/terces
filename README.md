@@ -1,8 +1,8 @@
-# terces: A command-line steganography tool.
+# terces
 
-# Installation
+## Installation
 
-# License
+## License
 
 This software is licensed under the [MIT
 License](https://opensource.org/licenses/MIT).
